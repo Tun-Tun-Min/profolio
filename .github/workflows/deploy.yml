@@ -6,8 +6,6 @@ env:
   USE_GITHUB_DATA: "true"
   MEDIUM_USERNAME: "@dev.tuntunmin" # Change this to your medium username
 on:
-permissions:
-  contents: write
   workflow_dispatch:
   push:
     branches:
