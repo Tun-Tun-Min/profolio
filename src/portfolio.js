@@ -130,7 +130,7 @@ const educationInfo = {
       logo: require("./assets/images/cu_universitylogo.png"),
       subHeader: "Computer Science",
       duration: "December 2012 - September 2017",
-      desc: "Participated in activity event, assignment projects, and internship",
+      desc: "Participated in activity event, assignment projects, and internship"
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
