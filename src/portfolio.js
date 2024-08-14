@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web site and Web applications with JavaScript  / Nodejs / Laravel / Vue JS and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1neiuyVXDbHC_rkuWzdRUvp2SXlrqKRtp/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -52,12 +52,13 @@ const skillsSection = {
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Develop highly interactive Frontend / Backend Interfaces for your web applications and web sites"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
-    )
+    emoji("⚡ Analyze requirements through design, coding, testing, debugging, implementation, and integration"),
+    emoji("⚡ Structure Database Design and Normalization"),
+    emoji("⚡ Develop RESTful API for our web platforms"),
+    emoji("⚡ Hosting our projects on Firebase, AWS(Lightsail), Digital Ocean, Ubuntu servers"),
+    
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -114,6 +115,10 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "mongoDB",
+      fontAwesomeClassname: "fas fa-database"
+    },
+    {
+      skillName: "PostgreSQL",
       fontAwesomeClassname: "fas fa-database"
     },
    
